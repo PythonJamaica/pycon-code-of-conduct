@@ -6,9 +6,9 @@ To make clear what is expected, all delegates/attendees, speakers, exhibitors, o
 
 The Super Short Version
 ------------------------
-Make it your goal to show regard and consideration to all participants, as you interact with one another assume the best of your fellow participant. Choose professional language and uplifting language at all times and let your conduct be such that participants are welcomed and encouraged.
+Make it your goal to show regard and consideration to all participants. Assume the best of your fellow participants as you interact. Choose professional and uplifting language at all times and let your conduct be such that participants are welcomed and encouraged.
 
-Attendees who stubbornly choose the opposite of consideration and professional conduct and unapologitecally make the event unfriendly to other participants may be asked to leave at the discretion of the organizers.
+Attendees who practice the opposite of professional conduct and unapologitecally make the event unfriendly to other participants may be asked to leave at the discretion of the organizers.
 
 The Short Version
 -----------------
