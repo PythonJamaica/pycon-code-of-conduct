@@ -1,4 +1,4 @@
-PyCon US is a community conference intended for networking and collaboration in the developer community.
+PyCon Jamaica is a community conference intended for networking and collaboration in the developer community.
 
 We value the participation of each member of the Python community and want all attendees to have an enjoyable and fulfilling experience. Accordingly, all attendees are expected to show respect and courtesy to other attendees throughout the conference and at all conference events, whether officially sponsored by PyCon or not.
 
@@ -7,7 +7,7 @@ To make clear what is expected, all delegates/attendees, speakers, exhibitors, o
 The Short Version
 -----------------
 
-PyCon is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of conference participants in any form.
+PyCon Jamaica is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of conference participants in any form.
 
 All communication should be appropriate for a professional audience including people of many different backgrounds. Sexual language and imagery is not appropriate for any conference venue, including talks.
 
