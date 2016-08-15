@@ -39,16 +39,7 @@ If a participant engages in behavior that violates this code of conduct, the con
 Contact Information
 -------------------
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of conference staff. Conference staff will be wearing "PyCon Staff" t-shirts. You may also contact hotel staff and ask to be put in touch with the conference chair &mdash; Jesse Noller.
-
-If the matter is especially urgent, please call/contact any of these individuals:
-
-- Jesse Noller at +1 (978) 212-9863
-- Diana Clarke (co-chair) at +1 (416) 453-3130
-- Jacob Kaplan-Moss (program chair) at +1 (785) 766-2474
-- Ewa Jodlowska (event coordinator) at +1 (773) 599-3845
-
-Conference staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of conference staff. Conference staff will be clearly identified by badges or "PyCon Staff" t-shirts. Conference staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.
 
 Procedure for Handling Harassment
 ------------------------------------------
