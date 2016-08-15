@@ -4,6 +4,12 @@ We value the participation of each member of the Python community and want all a
 
 To make clear what is expected, all delegates/attendees, speakers, exhibitors, organizers and volunteers at any PyCon event are required to conform to the following Code of Conduct. Organizers will enforce this code throughout the event.
 
+The Super Short Version
+------------------------
+Make it your goal to show regard and consideration to all participants, as you interact with one another assume the best of your fellow participant. Choose professional language and uplifting language at all times and let your conduct be such that participants are welcomed and encouraged.
+
+Attendees who stubbornly choose the opposite of consideration and professional conduct and unapologitecally make the event unfriendly to other participants may be asked to leave at the discretion of the organizers.
+
 The Short Version
 -----------------
 
